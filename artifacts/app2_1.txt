@@ -1,3 +1,4 @@
+pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % python3 app2.py 
 1
 2
 3
