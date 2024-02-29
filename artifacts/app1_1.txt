@@ -1,0 +1,9 @@
+pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % python3 app1.py
+Hello!
+1       Hello!
+Testing 
+2       Testing 
+The
+3       The
+Programm
+4       Programm

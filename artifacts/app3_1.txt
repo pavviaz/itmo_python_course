@@ -1,0 +1,8 @@
+pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % python3 app3.py
+Hello
+I
+Want to
+test the 
+Program !
+^D
+        5       8       31

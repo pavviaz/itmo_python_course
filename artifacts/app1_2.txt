@@ -1,0 +1,8 @@
+pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % python3 app1.py artifacts/test.txt 
+1       Hello
+2       world
+3       I
+4       want
+5       to test
+6       the
+7       programm!

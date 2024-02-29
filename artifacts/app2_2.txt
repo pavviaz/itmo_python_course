@@ -1,0 +1,9 @@
+python3 app2.py artifacts/test.txt 
+==> artifacts/test.txt <==
+Hello
+world
+I
+want
+to test
+the
+programm!

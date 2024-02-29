@@ -1,0 +1,4 @@
+pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % python3 app3.py artifacts/test.txt artifacts/test2.txt 
+        7       8       41 artifacts/test.txt
+        19      67      651 artifacts/test2.txt
+        26      75      692 total

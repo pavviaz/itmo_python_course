@@ -1,0 +1,19 @@
+Here, 
+we show 
+some qualitative 
+results, 
+\emph{e.g.,} 
+Fig. \ref{app:patchdrop_vis} 
+show the examples of our 
+occlusion (random, foreground, and background) 
+method. The performance of our shape models 
+to segment the salient image is shown in 
+Fig. \ref{app:segmentation}.  We show different 
+variation levels  of Salient PatchDrop on 
+different images in Fig. \ref{app:patchdrop_vary}. 
+Finally, we show adversarial patches optimized to 
+fool different ViT models (Fig. \ref{app:adv_patch}).
+\input{figures/appendix/patch_vis}
+\input{figures/appendix/segmentation}
+\input{figures/appendix/patch_drop_variation}
+\input{figures/appendix/adv_patch}

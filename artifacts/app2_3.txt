@@ -1,0 +1,20 @@
+pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % python3 app2.py artifacts/test.txt artifacts/test2.txt 
+==> artifacts/test.txt <==
+Hello
+world
+I
+want
+to test
+the
+programm!
+==> artifacts/test2.txt <==
+to segment the salient image is shown in
+Fig. \ref{app:segmentation}.  We show different
+variation levels  of Salient PatchDrop on
+different images in Fig. \ref{app:patchdrop_vary}.
+Finally, we show adversarial patches optimized to
+fool different ViT models (Fig. \ref{app:adv_patch}).
+\input{figures/appendix/patch_vis}
+\input{figures/appendix/segmentation}
+\input{figures/appendix/patch_drop_variation}
+\input{figures/appendix/adv_patch}
