@@ -1,0 +1,1 @@
+python3 app1_2.py --csv-path app1_input.csv
