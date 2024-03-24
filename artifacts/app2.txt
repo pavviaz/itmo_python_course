@@ -1,0 +1,97 @@
+(venv) pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % /Users/pavelvyaznikov/Documents/itmo_python_course/venv/bin/python /Users/pavelvyaznikov/Documents/itmo_python_course/app2.py
+NUM OF INSTANCES: 1
+|||THREAD|||    s = 1.0000000785399288 in 0.5215 secs 
+|||PROCESS|||   s = 1.0000000785399288 in 0.5461 secs 
+---------
+NUM OF INSTANCES: 2
+|||THREAD|||    s = 1.0000000785398064 in 0.5089 secs 
+|||PROCESS|||   s = 1.0000000785398064 in 0.3118 secs 
+---------
+NUM OF INSTANCES: 3
+|||THREAD|||    s = 1.0000000785397951 in 0.5134 secs 
+|||PROCESS|||   s = 1.0000000785397951 in 0.2232 secs 
+---------
+NUM OF INSTANCES: 4
+|||THREAD|||    s = 1.000000078539799 in 0.5081 secs 
+|||PROCESS|||   s = 1.000000078539799 in 0.1796 secs 
+---------
+NUM OF INSTANCES: 5
+|||THREAD|||    s = 1.0000000785398289 in 0.5040 secs 
+|||PROCESS|||   s = 1.0000000785398289 in 0.1507 secs 
+---------
+NUM OF INSTANCES: 6
+|||THREAD|||    s = 1.0000000785398302 in 0.5034 secs 
+|||PROCESS|||   s = 1.0000000785398302 in 0.1343 secs 
+---------
+NUM OF INSTANCES: 7
+|||THREAD|||    s = 1.000000078539817 in 0.5092 secs 
+|||PROCESS|||   s = 1.000000078539817 in 0.1203 secs 
+---------
+NUM OF INSTANCES: 8
+|||THREAD|||    s = 1.000000078539804 in 0.5006 secs 
+|||PROCESS|||   s = 1.000000078539804 in 0.1099 secs 
+---------
+NUM OF INSTANCES: 9
+|||THREAD|||    s = 1.0000000785398098 in 0.5017 secs 
+|||PROCESS|||   s = 1.0000000785398098 in 0.1039 secs 
+---------
+NUM OF INSTANCES: 10
+|||THREAD|||    s = 1.0000000785398198 in 0.5032 secs 
+|||PROCESS|||   s = 1.0000000785398198 in 0.1002 secs 
+---------
+NUM OF INSTANCES: 11
+|||THREAD|||    s = 1.0000000785398162 in 0.5027 secs 
+|||PROCESS|||   s = 1.0000000785398162 in 0.0962 secs 
+---------
+NUM OF INSTANCES: 12
+|||THREAD|||    s = 1.0000000785398147 in 0.5064 secs 
+|||PROCESS|||   s = 1.0000000785398147 in 0.0962 secs 
+---------
+NUM OF INSTANCES: 13
+|||THREAD|||    s = 1.000000078539822 in 0.5108 secs 
+|||PROCESS|||   s = 1.000000078539822 in 0.1022 secs 
+---------
+NUM OF INSTANCES: 14
+|||THREAD|||    s = 1.0000000785398067 in 0.5077 secs 
+|||PROCESS|||   s = 1.0000000785398067 in 0.1048 secs 
+---------
+NUM OF INSTANCES: 15
+|||THREAD|||    s = 1.0000000785398258 in 0.5085 secs 
+|||PROCESS|||   s = 1.0000000785398258 in 0.1087 secs 
+---------
+NUM OF INSTANCES: 16
+|||THREAD|||    s = 1.0000000785398102 in 0.5053 secs 
+|||PROCESS|||   s = 1.0000000785398102 in 0.1052 secs 
+---------
+NUM OF INSTANCES: 17
+|||THREAD|||    s = 1.000000078539807 in 0.5077 secs 
+|||PROCESS|||   s = 1.000000078539807 in 0.1142 secs 
+---------
+NUM OF INSTANCES: 18
+|||THREAD|||    s = 1.0000000785398118 in 0.5085 secs 
+|||PROCESS|||   s = 1.0000000785398118 in 0.1193 secs 
+---------
+NUM OF INSTANCES: 19
+|||THREAD|||    s = 1.0000000785398127 in 0.5118 secs 
+|||PROCESS|||   s = 1.0000000785398127 in 0.1133 secs 
+---------
+NUM OF INSTANCES: 20
+|||THREAD|||    s = 1.0000000785398178 in 0.5051 secs 
+|||PROCESS|||   s = 1.0000000785398178 in 0.1156 secs 
+---------
+NUM OF INSTANCES: 21
+|||THREAD|||    s = 1.0000000785398118 in 0.5087 secs 
+|||PROCESS|||   s = 1.0000000785398118 in 0.1213 secs 
+---------
+NUM OF INSTANCES: 22
+|||THREAD|||    s = 1.0000000785398158 in 0.5094 secs 
+|||PROCESS|||   s = 1.0000000785398158 in 0.1209 secs 
+---------
+NUM OF INSTANCES: 23
+|||THREAD|||    s = 1.0000000785398153 in 0.5095 secs 
+|||PROCESS|||   s = 1.0000000785398153 in 0.1225 secs 
+---------
+NUM OF INSTANCES: 24
+|||THREAD|||    s = 1.0000000785398115 in 0.5122 secs 
+|||PROCESS|||   s = 1.0000000785398115 in 0.1295 secs 
+---------

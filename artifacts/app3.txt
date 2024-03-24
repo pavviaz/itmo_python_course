@@ -1,0 +1,37 @@
+(venv) pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % /Users/pavelvyaznikov/Documents/itmo_python_course/venv/bin/python /Users/pavelv
+yaznikov/Documents/itmo_python_course/app3.py
+Enter a message: I LOVE PYTHON 
+Time on input: 18:27:08.081425
+
+Processed message: v ybir clguba;       Time on output = 18:27:08.084566
+---------
+Enter a message: PLUS 1
+Time on input: 18:27:16.705780
+
+Processed message: cyhf 1;      Time on output = 18:27:16.707494
+---------
+Enter a message: AND ANOTHER ONE
+Time on input: 18:27:27.046100
+
+Processed message: naq nabgure bar;     Time on output = 18:27:27.047400
+---------
+Enter a message: DWQWDQWD
+Time on input: 18:27:29.248414
+
+Processed message: qjdjqdjq;    Time on output = 18:27:32.052175
+---------
+Enter a message: DQDWDQW
+Time on input: 18:27:32.868886
+
+Processed message: qdqjqdj;     Time on output = 18:27:37.057596
+---------
+Enter a message: DQDWQWQDDQW
+Time on input: 18:27:38.162503
+
+Processed message: qdqjdjdqqdj; Time on output = 18:27:42.062549
+---------
+Enter a message: WAITED 5 SECS
+Time on input: 18:27:47.554683
+
+Processed message: jnvgrq 5 frpf;       Time on output = 18:27:47.555465
+---------

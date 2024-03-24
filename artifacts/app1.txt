@@ -1,0 +1,32 @@
+(venv) pavelvyaznikov@MacBook-Pro-Pavel itmo_python_course % /Users/pavelvyaznikov/Documents/itmo_python_course/venv/bin/python /Users/pavelvyaznikov/Documents/itmo_python_course/app1.py
+Computing 10 Fibonacci numbers from 100000 to 200000 10 times
+1) |||SYNC|||   Computed 10 fib numbers in 2.2928950786590576 sec
+2) |||SYNC|||   Computed 10 fib numbers in 2.1798267364501953 sec
+3) |||SYNC|||   Computed 10 fib numbers in 2.360689163208008 sec
+4) |||SYNC|||   Computed 10 fib numbers in 2.283149242401123 sec
+5) |||SYNC|||   Computed 10 fib numbers in 2.2102651596069336 sec
+6) |||SYNC|||   Computed 10 fib numbers in 2.648183822631836 sec
+7) |||SYNC|||   Computed 10 fib numbers in 2.1091458797454834 sec
+8) |||SYNC|||   Computed 10 fib numbers in 2.120335102081299 sec
+9) |||SYNC|||   Computed 10 fib numbers in 2.3851630687713623 sec
+10) |||SYNC|||  Computed 10 fib numbers in 1.9163110256195068 sec
+1) |||THREAD||| Computed 10 fib numbers in 2.2846851348876953 sec
+2) |||THREAD||| Computed 10 fib numbers in 2.3571760654449463 sec
+3) |||THREAD||| Computed 10 fib numbers in 2.452491044998169 sec
+4) |||THREAD||| Computed 10 fib numbers in 2.532702922821045 sec
+5) |||THREAD||| Computed 10 fib numbers in 2.1655399799346924 sec
+6) |||THREAD||| Computed 10 fib numbers in 1.8046541213989258 sec
+7) |||THREAD||| Computed 10 fib numbers in 2.3900558948516846 sec
+8) |||THREAD||| Computed 10 fib numbers in 1.9559717178344727 sec
+9) |||THREAD||| Computed 10 fib numbers in 2.1518430709838867 sec
+10) |||THREAD|||        Computed 10 fib numbers in 2.0360219478607178 sec
+1) |||PROCESS|||        Computed 10 fib numbers in 0.40349507331848145 sec
+2) |||PROCESS|||        Computed 10 fib numbers in 0.4127790927886963 sec
+3) |||PROCESS|||        Computed 10 fib numbers in 0.38057494163513184 sec
+4) |||PROCESS|||        Computed 10 fib numbers in 0.38642191886901855 sec
+5) |||PROCESS|||        Computed 10 fib numbers in 0.39177989959716797 sec
+6) |||PROCESS|||        Computed 10 fib numbers in 0.42854881286621094 sec
+7) |||PROCESS|||        Computed 10 fib numbers in 0.38933801651000977 sec
+8) |||PROCESS|||        Computed 10 fib numbers in 0.4161190986633301 sec
+9) |||PROCESS|||        Computed 10 fib numbers in 0.40343284606933594 sec
+10) |||PROCESS|||       Computed 10 fib numbers in 0.4021000862121582 sec
